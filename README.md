@@ -1,10 +1,10 @@
-markdown
+
 # ESI (Exponential Stabilization Index) Framework
 
 **Author: Leon Motaung**  
 **Portfolio: [leonmotaung.com](http://leonmotaung.com)**  
-**Email: 4218250@myuwc.ac.za**  
-**Institution: University of the Western Cape, Department of Natural Sciences**
+**Email: motaungleon.com**  
+**Institution: Dewet Technologies**
 
 ---
 
